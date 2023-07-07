@@ -1,2 +1,2 @@
 # BasicPortofolio
-Built basic HTML portfolio form with simple CSS features.
+Built a simple HTML portfolio form with basic CSS features.
